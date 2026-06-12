@@ -72,9 +72,6 @@ export KAGGLE_API_TOKEN="<your KGAT token>"
 ./submit_kaggle_notebook_output.sh <NOTEBOOK> <VERSION> "FLE3N LightGBM submission"
 ```
 
-For a step-by-step handover that another local Codex agent can follow to push,
-run, and submit the Kaggle notebook, see `HANDOVER_KAGGLE_SUBMISSION.md`.
-
 ## Pipeline B likelihood-PF only
 
 Run the standalone Pipeline B likelihood-weighted particle-filter candidate generator on Kaggle with:
