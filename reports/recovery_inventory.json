@@ -1,0 +1,148 @@
+[
+  {
+    "path": "kaggle_kernels/rogii_public_best_lb_7_776/04_public_best_lb_7_776.ipynb",
+    "sha256": "9ceb2de5bdc311c1548d05057521b00474b1a5c804b5b551575040f5a66bab7b",
+    "bytes": 84058,
+    "cells": 34,
+    "executed_output_cells": 0,
+    "code_sha256": "7119d004c9c8cb606b254120a2ff0463fdd7d964eb26a3fc7fc4e9f0fefde131"
+  },
+  {
+    "path": "kaggle_kernels/rogii_public_best_lb_7_776/kernel-metadata.json",
+    "sha256": "c98350bcae4528e108dc8184a84d193b0d9e31f6397f46e8c81a30e4766f0046",
+    "bytes": 525
+  },
+  {
+    "path": "kaggle_kernels/rogii_public_best_ridge_sp45_projection/04_public_best_ridge_sp45_projection.ipynb",
+    "sha256": "16c44395541fbcb12699288b71344e3302280d76d16f4c3c74342d03c98ceaea",
+    "bytes": 85550,
+    "cells": 35,
+    "executed_output_cells": 0,
+    "code_sha256": "cfba91a0b328e4d5886de53a26b9a0537f64b409468c3d7e12f6b0b747a9babb"
+  },
+  {
+    "path": "kaggle_kernels/rogii_public_best_ridge_sp45_projection/kernel-metadata.json",
+    "sha256": "7bbd520369de938ccdf4b24a1bfff6b5b61eb661b23833c51ed603008e0b6c31",
+    "bytes": 564
+  },
+  {
+    "path": "notebooks/01_data_inspection.ipynb",
+    "sha256": "a6c9b3c5481538b6ba9ae4524a32cb3fbe8ab6ffd173b092e3f2a872f49ea6c8",
+    "bytes": 51255,
+    "cells": 9,
+    "executed_output_cells": 6,
+    "code_sha256": "fa054e85d6f6abec58830b2b0a086bccb9034ebedebd12c83d0cc7599da085e5"
+  },
+  {
+    "path": "notebooks/02_baseline.ipynb",
+    "sha256": "a03ce2ba2bca0e62fefa4609414ee3aa07731a310e7c4bac976dedfd1acc336b",
+    "bytes": 68317,
+    "cells": 21,
+    "executed_output_cells": 10,
+    "code_sha256": "a047563e89324cd25ebad400740ce76edb6cc54388511404184302fa00f4341d"
+  },
+  {
+    "path": "notebooks/03_best_score_submission.ipynb",
+    "sha256": "97efb2826159c596ea56ebedbb990620dabffdda0dd09d67d429218cf07568ef",
+    "bytes": 25449,
+    "cells": 14,
+    "executed_output_cells": 6,
+    "code_sha256": "dcc06b36320c03e67112ee720f314242f4e775d83fb6e7a0e3d9350ca8a60931"
+  },
+  {
+    "path": "notebooks/04_public_best_lb_7_776.ipynb",
+    "sha256": "9ceb2de5bdc311c1548d05057521b00474b1a5c804b5b551575040f5a66bab7b",
+    "bytes": 84058,
+    "cells": 34,
+    "executed_output_cells": 0,
+    "code_sha256": "7119d004c9c8cb606b254120a2ff0463fdd7d964eb26a3fc7fc4e9f0fefde131"
+  },
+  {
+    "path": "notebooks/04_public_best_ridge_sp45_projection.ipynb",
+    "sha256": "16c44395541fbcb12699288b71344e3302280d76d16f4c3c74342d03c98ceaea",
+    "bytes": 85550,
+    "cells": 35,
+    "executed_output_cells": 0,
+    "code_sha256": "cfba91a0b328e4d5886de53a26b9a0537f64b409468c3d7e12f6b0b747a9babb"
+  },
+  {
+    "path": "rogii-kaggle/HANDOVER_KAGGLE_SUBMISSION.md",
+    "sha256": "b868b3c14aa189cfd5a11a67c8f2b496a1a636f6d4c4b04caafb30ec16b404ed",
+    "bytes": 4443
+  },
+  {
+    "path": "rogii-kaggle/README.md",
+    "sha256": "5cbbf4eb2fce6feb45652b5bc49da165d65a9bf64e34aa1857a2ae8916e73d41",
+    "bytes": 3299
+  },
+  {
+    "path": "rogii-kaggle/best_submission.ipynb",
+    "sha256": "68d829be70701d450661a2b65f98f25665942b3eb2a576cd177795e78afee906",
+    "bytes": 28853,
+    "cells": 14,
+    "executed_output_cells": 6,
+    "code_sha256": "6a758fa6c35368e0ff0f2ed25532b50ed0df0c97179990e6d9e005f602e9226a"
+  },
+  {
+    "path": "rogii-kaggle/fle3n_rogii_v5_train.ipynb",
+    "sha256": "652fa07e7357b587444c9f3b6aa6e8510e3462380c59424b65af72b3fbc36f97",
+    "bytes": 32700,
+    "cells": 3,
+    "executed_output_cells": 0,
+    "code_sha256": "9374b2c690820c1f5ad2f6e166e9464dbd01b4059e21bc524dedff88d4d3cce0"
+  },
+  {
+    "path": "rogii-kaggle/fle3n_rogii_v5_train.py",
+    "sha256": "0f3827284bf35ebec7a7b86d854d4de8c066d8a1f1317843341931856d3fe0b8",
+    "bytes": 25167
+  },
+  {
+    "path": "rogii-kaggle/leakage_version.ipynb",
+    "sha256": "ee19eb4bb0121be65bc0c9b72e624090fdd579411891d6fe578f06a2ad46d474",
+    "bytes": 74412,
+    "cells": 12,
+    "executed_output_cells": 10,
+    "code_sha256": "04c42cf532986d5abf8d2709666cb698ccea34e6632f53f01aa77f059b014c7b"
+  },
+  {
+    "path": "rogii-kaggle/pipeline_b_likpf_only.ipynb",
+    "sha256": "939436e058c0830a05c9a866c25b2a17ad4ee2e78b5d7d2977214dcc40171d8e",
+    "bytes": 30457,
+    "cells": 9,
+    "executed_output_cells": 0,
+    "code_sha256": "fe28ea5e552a520e66344b72d19f5e8cc32a64e2dacfa08e77bf132a8b65691f"
+  },
+  {
+    "path": "rogii-kaggle/pipeline_b_likpf_only.py",
+    "sha256": "7809e6877059628bda71bbfb3d35557e4b5ba4a3ff7201b683b7852e064ff3ed",
+    "bytes": 21296
+  },
+  {
+    "path": "rogii-kaggle/rogii-dual-pipeline-blend.ipynb",
+    "sha256": "9f80687b9582b9b47a464613433afabe74274565252a2e235c152456a0d828e8",
+    "bytes": 141094,
+    "cells": 63,
+    "executed_output_cells": 0,
+    "code_sha256": "c952972eac6d7eb99bb337fd6225a3ddcc048bf200299204c9ba8c01defba854"
+  },
+  {
+    "path": "rogii-kaggle/submit_kaggle_notebook_output.sh",
+    "sha256": "3694a8481be0f50e69fb0e7f9a658f72d87300214d2c87a53a3edad039b13fb8",
+    "bytes": 995
+  },
+  {
+    "path": "submission.csv",
+    "sha256": "2ebc68819f77feb407e5bb854906cf10b90886f7c47026e5420b02588e715fec",
+    "bytes": 334775
+  },
+  {
+    "path": "submissions/02_baseline_submission.csv",
+    "sha256": "1f845a74f52a856604a914343fa83ffabc68b209b2d5c2c365f3dfbb72134e86",
+    "bytes": 463270
+  },
+  {
+    "path": "submissions/03_best_score_submission.csv",
+    "sha256": "2ebc68819f77feb407e5bb854906cf10b90886f7c47026e5420b02588e715fec",
+    "bytes": 334775
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "sample_rows": 14151,
+  "lookup_rows": 14151,
+  "existing_lookup_submission_rmse_against_released_train_labels": 0.0,
+  "interpretation": "Released-data target retrieval, not predictive validation; no competition-rule judgment."
+}
