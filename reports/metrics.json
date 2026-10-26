@@ -1,0 +1,86 @@
+{
+  "inner_oof_training_sample": {
+    "row_rmse_ft": 15.699468794313974,
+    "mean_well_rmse_ft": 12.758976219736544,
+    "median_well_rmse_ft": 10.31349208993835,
+    "rows": 123200,
+    "wells": 616
+  },
+  "validation": {
+    "training_mean": {
+      "row_rmse_ft": 608.4409995675264,
+      "mean_well_rmse_ft": 539.4502348933376,
+      "median_well_rmse_ft": 499.78920943620994,
+      "rows": 372424,
+      "wells": 77
+    },
+    "last_known": {
+      "row_rmse_ft": 15.011673845988419,
+      "mean_well_rmse_ft": 12.78351905334494,
+      "median_well_rmse_ft": 10.970947774577148,
+      "rows": 372424,
+      "wells": 77
+    },
+    "linear_extrapolation": {
+      "row_rmse_ft": 88.97538389180114,
+      "mean_well_rmse_ft": 53.775466122968474,
+      "median_well_rmse_ft": 31.963270009771396,
+      "rows": 372424,
+      "wells": 77
+    },
+    "lightgbm_fold_average": {
+      "row_rmse_ft": 13.789640273863188,
+      "mean_well_rmse_ft": 11.883487070223683,
+      "median_well_rmse_ft": 10.347088181010648,
+      "rows": 372424,
+      "wells": 77
+    },
+    "lightgbm_fold_average_sg11": {
+      "row_rmse_ft": 13.78936974097867,
+      "mean_well_rmse_ft": 11.883070504549789,
+      "median_well_rmse_ft": 10.346885516638276,
+      "rows": 372424,
+      "wells": 77
+    }
+  },
+  "test": {
+    "training_mean": {
+      "row_rmse_ft": 649.5245226067839,
+      "mean_well_rmse_ft": 570.6183233350496,
+      "median_well_rmse_ft": 536.2682424532543,
+      "rows": 365592,
+      "wells": 77
+    },
+    "last_known": {
+      "row_rmse_ft": 14.489390883943543,
+      "mean_well_rmse_ft": 13.07089799638349,
+      "median_well_rmse_ft": 11.699306446401204,
+      "rows": 365592,
+      "wells": 77
+    },
+    "linear_extrapolation": {
+      "row_rmse_ft": 80.00406713979245,
+      "mean_well_rmse_ft": 57.26405330764442,
+      "median_well_rmse_ft": 45.93424104899769,
+      "rows": 365592,
+      "wells": 77
+    },
+    "lightgbm_fold_average": {
+      "row_rmse_ft": 13.557422969449648,
+      "mean_well_rmse_ft": 11.853879502860604,
+      "median_well_rmse_ft": 10.091016150080382,
+      "rows": 365592,
+      "wells": 77
+    },
+    "lightgbm_fold_average_sg11": {
+      "row_rmse_ft": 13.557168259936638,
+      "mean_well_rmse_ft": 11.853505474764813,
+      "median_well_rmse_ft": 10.090832325460571,
+      "rows": 365592,
+      "wells": 77
+    }
+  },
+  "runtime_seconds": 27.29,
+  "official_submission_rows": 14151,
+  "performance_scope": "Internal held-out wells; official-test labels never scored. Training rows are capped as recorded."
+}
